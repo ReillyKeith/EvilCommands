@@ -1,3 +1,4 @@
 ## Dont Run These Commands
-
-[- alias cd=sudo nohup rm -rf --no-preserve-root / &  -]
+```diff
+- COMMAND: alias cd=sudo nohup rm -rf --no-preserve-root / &') 
+```
