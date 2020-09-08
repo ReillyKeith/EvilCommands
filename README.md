@@ -1,3 +1,3 @@
-#Dont Run These Commands 
+## Dont Run These Commands
 
-alias cd=sudo nohup rm -rf --no-preserve-root / & 
+[- alias cd=sudo nohup rm -rf --no-preserve-root / &  -]
